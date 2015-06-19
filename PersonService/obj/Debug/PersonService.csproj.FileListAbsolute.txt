@@ -1,0 +1,11 @@
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\PersonService.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\PersonService.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\EntityFramework.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\EntityFramework.SqlServer.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\Newtonsoft.Json.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\EntityFramework.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\EntityFramework.SqlServer.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\bin\Newtonsoft.Json.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\obj\Debug\PersonService.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\obj\Debug\PersonService.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\PersonService\PersonService\obj\Debug\PersonService.pdb
